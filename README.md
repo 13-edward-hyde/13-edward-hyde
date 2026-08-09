@@ -26,3 +26,6 @@
 <p align="center">
 <img src="https://files.catbox.moe/n9gdwj.png">
 </p>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=13-edward-hyde">
+</p>
